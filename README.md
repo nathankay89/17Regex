@@ -54,4 +54,4 @@ This tutorial was created by Nathan Farquhar-Kay. You can connect with the Natha
 
 ## Gist URL
 
-https://gist.github.com/nathankay89/1ff49c2b277457c84a20518ec08e2717
+https://gist.github.com/nathankay89/874b217b0c52bb54a6c64d7f0f360048
