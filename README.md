@@ -51,3 +51,7 @@ Look-ahead (?= ... ) and look-behind (?<= ... ) assertions let you check for pat
 
 ### Author
 This tutorial was created by Nathan Farquhar-Kay. You can connect with the Nathan on https://github.com/nathankay89. If you have any questions or need further clarification, feel free to reach out.
+
+## Gist URL
+
+https://gist.github.com/nathankay89/1ff49c2b277457c84a20518ec08e2717
